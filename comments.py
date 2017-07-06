@@ -1,7 +1,7 @@
 import time, vk_api
 #input data
-group_id =				# (!)filling required(!)
-login = ''				# (!)filling required(!)
+group_id =			# (!)filling required(!)
+login = ''			# (!)filling required(!)
 password = ''			# (!)filling required(!)
 monitoring_hours = -1	# may required # 1 - 72 # -1 if only this day
 number_of_posts = 50	# may required # 1 - 100
